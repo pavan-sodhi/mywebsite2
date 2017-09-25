@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages 
+## Welcome to My website .  I am editing it from Vi  
 ## This is Pavandeep's Git Hub website
-Link
-
-[NJIT Hyperlink](http://www.njit.edu/)
+Link [NJIT Hyperlink](http://www.njit.edu/)
 
 You can use the [editor on GitHub](https://github.com/pavan-sodhi/mywebsite2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
